@@ -22,7 +22,7 @@ I'm a curious mix of an AI engineer, poet, and a designer. Currently pursuing **
 - Open-source research projects (QA, CV, RL)
 
 ## Reach me at:
--  Email: singhshubhangi.official@gmail.com  
+-  Email: shubhangisinghtanwar@gmail.com  
 
 ## Fun fact:
 I wrote and published a poetry book called **Saturn**: a journey through feelings, stardust, and resilience.
