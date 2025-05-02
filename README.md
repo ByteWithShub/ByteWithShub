@@ -4,7 +4,7 @@
 
 I'm a curious mix of an AI engineer, poet, and a designer. Currently pursuing **Artificial Intelligence Software Development**. I'm passionate about building things that combine logic with emotion, from machine learning systems to mobile mental health apps, building brand kits and leading brand collabrations, and even my writing books!
 
-![Long Walks](My%20Poems%20x%20Sneak%20Peek/Long%20walks.png) 
+![Long Walks](./Long%20walks.png) 
 
 ## Interests:
 - Applied AI/ML, NLP, and Reinforcement Learning  
