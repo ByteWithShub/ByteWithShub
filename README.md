@@ -25,5 +25,5 @@ I'm a curious mix of an AI engineer, poet, and a designer. Currently pursuing **
 -  Email: singhshubhangi.official@gmail.com  
 
 ## Fun fact:
-I wrote and published a poetry book called [**Saturn**] — a journey through feelings, stardust, and resilience.
+I wrote and published a poetry book called **Saturn**: a journey through feelings, stardust, and resilience.
 
