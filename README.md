@@ -2,7 +2,7 @@
 
  *"Create chaos, then make it beautiful."*
 
-I'm a curious mix of an AI engineer, poet, and a designer. Currently pursuing **Artificial Intelligence Software Development**. I'm passionate about building things that combine logic with emotion, from machine learning systems to mobile mental health apps, building brand kits and leading brand collabrations, and even my writing books!
+I'm a curious mix of an AI engineer, poet, and a designer. Recent graduate from **Artificial Intelligence Software Development**, and currently pursuing **Business Intelligence System Infrastructure**. I'm passionate about building things that combine logic with emotion, from machine learning systems to mobile mental health apps, building brand kits and leading brand collabrations, and even my writing books!
 
 ![Long Walks](./Long%20walks.png) 
 
